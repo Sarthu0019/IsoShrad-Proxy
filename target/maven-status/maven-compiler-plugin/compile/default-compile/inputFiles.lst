@@ -8,6 +8,7 @@ C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\network\Netty
 C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\tx\ShardManager.java
 C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\tx\CrashRecoveryDaemon.java
 C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\tx\DynamoDbWalLogger.java
+C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\tx\IsoShardJoinAggregator.java
 C:\Users\Sarthak\Desktop\isoshrad-proxy\target\generated-sources\antlr4\IsoShardSqlLexer.java
 C:\Users\Sarthak\Desktop\isoshrad-proxy\src\main\java\com\isoshrad\router\ShardRouter.java
 C:\Users\Sarthak\Desktop\isoshrad-proxy\target\generated-sources\antlr4\IsoShardSqlVisitor.java

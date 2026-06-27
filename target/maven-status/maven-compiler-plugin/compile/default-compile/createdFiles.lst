@@ -12,6 +12,7 @@ IsoShardSqlBaseVisitor.class
 IsoShardSqlParser$ExpressionContext.class
 com\isoshrad\network\NettyServerBootstrap.class
 IsoShardSqlParser$AssignmentListContext.class
+com\isoshrad\tx\DynamoDbWalLogger.class
 IsoShardSqlParser$ConditionContext.class
 IsoShardSqlParser$StatementContext.class
 IsoShardSqlParser$TableNameContext.class
@@ -20,6 +21,6 @@ com\isoshrad\compiler\ParsedQueryPlan$QueryType.class
 IsoShardSqlParser$AssignmentContext.class
 IsoShardSqlLexer.class
 IsoShardSqlParser$InsertStatementContext.class
+com\isoshrad\tx\IsoShardJoinAggregator.class
 IsoShardSqlParser$ColumnListContext.class
-com\isoshard\tx\DynamoDbWalLogger.class
 IsoShardSqlParser$SelectStatementContext.class

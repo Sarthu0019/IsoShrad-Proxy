@@ -1,4 +1,4 @@
-package com.isoshar d.tx;
+package com.isoshrad.tx;
 
 import software.amazon.awssdk.services.dynamodb.DynamoDbAsyncClient;
 import software.amazon.awssdk.services.dynamodb.model.PutItemRequest;
