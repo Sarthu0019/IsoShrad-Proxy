@@ -71,7 +71,7 @@ GTE : '>=';
 LTE : '<=';
 
 IDENTIFIER      : [a-zA-Z] [a-zA-Z0-9_]*;
-STRING_LITERAL : '\'' (~[']* | '\'\'')* '\'';
-NUMERIC_LITERAL: [0-9]+ ('.' [0-9]+)?;
+STRING_LITERAL  : '\'' (~['\r\n])* '\'';
+NUMERIC_LITERAL : [0-9]+ ('.' [0-9]+)?;
 
 WS : [ \t\r\n]+ -> skip;

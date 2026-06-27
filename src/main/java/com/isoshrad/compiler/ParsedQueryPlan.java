@@ -1,4 +1,4 @@
-package com.isoshard.compiler;
+package com.isoshrad.compiler;
 
 public class ParsedQueryPlan {
     public enum QueryType { READ, WRITE }
